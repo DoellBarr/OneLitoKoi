@@ -1,0 +1,80 @@
+{
+    "judul": "Alpha Test 8",
+    "rules": "Test Tatib",
+    "description": "",
+    "start_time": "2023-09-05T15:05:00",
+    "end_time": "2023-09-05T15:07:00",
+    "fish_data": [
+        {
+            "no": 1,
+            "bidder": {
+                "id": 616837397,
+                "name": "dul",
+                "bid": 2300
+            },
+            "last_bidder": {
+                "id": 616837397,
+                "name": "dul",
+                "bid": 2300
+            }
+        },
+        {
+            "no": 2,
+            "bidder": {
+                "id": 616837397,
+                "name": "dul",
+                "bid": 2300
+            },
+            "last_bidder": {
+                "id": 616837397,
+                "name": "dul",
+                "bid": 2300
+            }
+        },
+        {
+            "no": 3,
+            "bidder": {
+                "id": 616837397,
+                "name": "dul",
+                "bid": 2300
+            },
+            "last_bidder": {
+                "id": 616837397,
+                "name": "dul",
+                "bid": 2300
+            }
+        },
+        {
+            "no": 4,
+            "bidder": {
+                "id": 616837397,
+                "name": "dul",
+                "bid": 2300
+            },
+            "last_bidder": {
+                "id": 616837397,
+                "name": "dul",
+                "bid": 2300
+            }
+        },
+        {
+            "no": 5,
+            "bidder": {
+                "id": 616837397,
+                "name": "dul",
+                "bid": 2300
+            },
+            "last_bidder": {
+                "id": 616837397,
+                "name": "dul",
+                "bid": 2300
+            }
+        }
+    ],
+    "harga_ob": 100,
+    "harga_kb": 100,
+    "extra_time": 0,
+    "running": true,
+    "extra_time_status": false,
+    "bidder_in_extra_time": false
+}

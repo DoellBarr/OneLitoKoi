@@ -1,0 +1,5 @@
+apscheduler
+aiogram
+python-dotenv
+tortoise-orm[aiomysql]
+redis[hiredis]
